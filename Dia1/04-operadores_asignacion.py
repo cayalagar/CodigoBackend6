@@ -14,6 +14,7 @@ print (x)
 # /=dividiendo
 x /=2
 print (x)
-#potencia
+# **= potencia
 x **=2
 print (x)
+
